@@ -1,4 +1,6 @@
 # cpu-measure
+
+Measure cpu consumption
     
 ## License
 
