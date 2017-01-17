@@ -14,7 +14,7 @@ public class Measure {
 
         System.out.println(sleep);
 
-        for (int i = 1; i<max; i++) {
+        for (int i = 1; i <= max; i++) {
             boolean isPrimeNumber = true;
 
             for (int j = 2; j < i; j++) {
