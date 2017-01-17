@@ -25,7 +25,7 @@ public class Measure {
             }
 
             if (isPrimeNumber) {
-                System.out.print(i + " ");
+                System.out.println(i + " ");
                 Thread.sleep(sleep);
             }
         }
