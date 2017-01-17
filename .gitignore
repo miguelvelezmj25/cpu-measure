@@ -130,4 +130,4 @@ captures/
 # Keystore files
 *.jks
 
-.class
+*.class
